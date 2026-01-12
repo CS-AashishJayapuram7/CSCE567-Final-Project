@@ -108,6 +108,5 @@ This project was created as a final visualization project for **CSCE 567 - Visua
 
 **Aashish Jayapuram**  
 University of South Carolina  
-Computer Science | Data Science Minor  
 
 © 2025 – Music Popularity Analysis Project
